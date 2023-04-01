@@ -148,10 +148,6 @@ This project has 2 parts:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
 
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- ACKNOWLEDGMENTS 
 ## Acknowledgments
 
