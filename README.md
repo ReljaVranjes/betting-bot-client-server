@@ -56,7 +56,6 @@
     <li><a href="#features">Features</a></li>
     <!--<li><a href="#roadmap">Roadmap</a></li> -->
     <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 <br>
