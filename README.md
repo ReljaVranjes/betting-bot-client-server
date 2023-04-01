@@ -148,16 +148,7 @@ This project has 2 parts:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br>
 
-<!-- CONTACT -->
-## Contact
-<br>
-<div align="center">
-<p align="center">
-<a href="https://www.linkedin.com/in/djordjeristic/"><img src="https://img.shields.io/badge/-Djordje%20Ristic-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rist.djordje@gmail.com"><img src="https://img.shields.io/badge/-rist.djordje@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://twitter.com/itsdjordje"><img src="https://img.shields.io/badge/-itsdjordje-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-</div>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
